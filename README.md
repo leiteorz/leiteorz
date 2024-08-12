@@ -9,7 +9,7 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leiteorz&layout=compact&theme=tokyonight)
 
 ### 关于我
 - [博客](https://juejin.cn/user/3813539366054221)
